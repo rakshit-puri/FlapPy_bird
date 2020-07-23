@@ -10,7 +10,8 @@ A flappy bird clone using the pygame module of Python
   <img text = "Game Over" src = "flappy_g.jpg" width = "40%" >
 </p>
 
-
+# How to play
+Press SPACE to move upwards
 
 # Requirements
 Python 3
